@@ -1,2 +1,2 @@
-# kafka-sample-app
-kafka-sample-app with DB
+# springboot-gradle-basicWebApp
+Basic Web App with Gradle and spring boot including data persistence in RDBMS along with test cases for all layers
